@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="getfit">GetFit</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="" workoutTypes = {"Cardio", "Strength Training", "Yoga", "Pilates", "Crossfit", "HIIT"};
+
+
+</resources>
